@@ -1,9 +1,8 @@
 # diary_flutter_app | branch: google-drive-data
 
-<img width="1552" height="841" alt="Image" src="https://github.com/user-attachments/assets/058bbed4-b30a-40b0-80ae-fb5e09d56c64" />
+<img width="701" height="698" alt="Image" src="https://github.com/user-attachments/assets/6cbc9941-9f5a-4fae-9e38-01a475f00854" />
 
-<img width="1563" height="828" alt="Image" src="https://github.com/user-attachments/assets/191a2dfc-73a5-49bf-9b59-47708a71c65c" />
-
+<img width="1634" height="857" alt="Image" src="https://github.com/user-attachments/assets/e5bcbe28-72c2-44a3-8063-044eae44baa7" />
 
 ## Purpose
 Personal journaling app that showcases a dark, typewriter-inspired UI (see `lib/screens/home_screen_new.dart`, `entry_screen.dart`, `search_screen.dart` and `entries_by_year_screen.dart`). Users can write, edit, delete, search, and browse entries by year while the provider (`lib/providers/diary_provider.dart`) keeps the UI in sync with the JSON-backed storage and Google Drive sync service.
